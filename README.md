@@ -27,13 +27,17 @@
 
 ---
 
+
+
 ## 🚀 About Me
 
-- 💻 Skilled in **MERN Stack Development**
-- 🤖 Working on **AI-Powered Voice & Behavioral Analysis Projects**
-- 📱 Experience building responsive websites and React applications
-- 📚 Currently improving Data Structures & Algorithms
-- 🎯 Goal: To become a top-tier Full Stack & AI Engineer
+- 👋 I'm Madhana Baskar, a passionate Front-End Developer  
+- 💻 Strong knowledge in Java, Python, and React JS  
+- 🎨 Skilled in building responsive UI using Bootstrap  
+- ⚙️ Familiar with Spring Boot for backend development  
+- 🗄️ Experienced in SQL, MySQL, and PostgreSQL databases  
+- 🚀 Worked on multiple React JS projects and modern web applications  
+- 📈 Continuously improving my full-stack development skills  
 
 ---
 
@@ -45,7 +49,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 <br/><br/>
 
 </td>
@@ -53,7 +57,7 @@
 <td width="50%" align="center">
 <h3>📚 Frameworks & Libraries</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,nextjs,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react.bootstrap" />
 
 </td>
 </tr>
